@@ -7,7 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://www.anaskanafani.tech/](https://www.anaskanafani.tech/)
 
-- 💬 Ask me about **react, javascript, java**
+- 💬 Ask me about **React, javascript, java**
+
+- 📧 Want to connect? Email me at anas.kanafani10@outlook.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
