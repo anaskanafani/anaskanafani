@@ -1,7 +1,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=ANAS%20KANAFANI%20👨‍💻&width=1600&height=400)](https://github.com/Akshay090/svg-banners)
 <h1 align="center">Hi 👋, I'm Anas</h1>
 <h3 align="center">A passionate full-stack developer</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🌱 I’m currently learning **Artificial intelligence**
 
