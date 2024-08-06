@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Artificial intelligence**
 
-- 👨‍💻 All of my projects are available at [https://www.anaskanafani.tech/](https://www.anasmhd.tech/)
-
 - 💬 Ask me about **React, javascript, java**
 
 - 📧 Want to connect? Email me at anas.kanafani10@outlook.com
