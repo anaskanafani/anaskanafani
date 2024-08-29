@@ -30,6 +30,8 @@
 - [🌾 Agricultural Disease Detection](https://github.com/anaskanafani/Agricultural-Disease-Detection)  
   An AI model designed to detect diseases in crops using image recognition, helping farmers maintain healthy crops.
 
+- [🛡️ Adversarial Evasion Attacks on Neural Networks](https://github.com/anaskanafani/Adversarial-Evasion-Attacks)
+  This project shows how small input changes can deceive neural networks using ART, featuring attacks on a CNN model, and comparing original vs. robust classifiers to emphasize AI security.
 - [📖 AI-Driven Image to Storytelling Pipeline](https://github.com/anaskanafani/image-to-story-to-Speech)  
   A pipeline that converts images into engaging stories, showcasing the intersection of AI, creativity, and storytelling.
 
