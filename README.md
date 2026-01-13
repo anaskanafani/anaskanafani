@@ -1,14 +1,5 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=ANAS%20KANAFANI%20👨‍💻&width=1600&height=400)](https://github.com/Akshay090/svg-banners)
 
-# Hi 👋, I'm Anas:
-🔭 I’m currently working on: AI-driven software projects, blending cutting-edge machine learning with practical applications.<br><br>🔗 I’m looking to collaborate on: Innovative AI and software engineering projects that make a real-world impact.<br><br>🤝 I’m looking for help with: Exploring new AI techniques and integrating them into mobile and web development.<br><br>🌱 I’m currently learning: Advanced deep learning models and their applications in dynamic environments.<br><br>💬 Ask me about: Software development, AI integration, and creating scalable web and mobile applications.<br><br>
-📧 Want to connect? Email me at anas.kanafani10@outlook.com
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Anas-Kanafani) 
-
-# 💻 Tech Stack:
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) 
 
